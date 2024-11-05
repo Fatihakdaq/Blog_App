@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\data\\concrete\\efcore\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\data\\concrete\\efcore\\blogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\viewcomponents\\newposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\viewcomponents\\newposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\models\\postsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\models\\postsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\models\\postcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\models\\postcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\models\\loginviewmodel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\models\\loginviewmodel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\data\\abstract\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\data\\abstract\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\viewcomponents\\tagsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\viewcomponents\\tagsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\entity\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\entity\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\entity\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\entity\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\entity\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\entity\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\data\\concrete\\efcore\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\data\\concrete\\efcore\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\data\\concrete\\efcore\\efpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\data\\concrete\\efcore\\efpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\data\\concrete\\efcore\\efcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\data\\concrete\\efcore\\efcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|d:\\aspnet_dersleri\\6-10 \u00FCnite\\blogapp\\blogapp\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53419736-2C9C-40AF-981E-73ADE1033185}|BlogApp\\BlogApp.csproj|solutionrelative:blogapp\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Data\\Abstract\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Data\\Abstract\\ICommentRepository.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Data\\Abstract\\ICommentRepository.cs",
+              "RelativeToolTip": "BlogApp\\Data\\Abstract\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:23:37.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TagsMenu.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\ViewComponents\\TagsMenu.cs",
+              "RelativeDocumentMoniker": "BlogApp\\ViewComponents\\TagsMenu.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\ViewComponents\\TagsMenu.cs",
+              "RelativeToolTip": "BlogApp\\ViewComponents\\TagsMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:23:30.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\libman.json",
+              "RelativeDocumentMoniker": "BlogApp\\libman.json",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\libman.json",
+              "RelativeToolTip": "BlogApp\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T12:14:02.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Entity\\User.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Entity\\User.cs",
+              "RelativeToolTip": "BlogApp\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:05:02.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Entity\\Tag.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Entity\\Tag.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Entity\\Tag.cs",
+              "RelativeToolTip": "BlogApp\\Entity\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:05:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Entity\\Post.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Entity\\Post.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Entity\\Post.cs",
+              "RelativeToolTip": "BlogApp\\Entity\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:04:59.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Entity\\Comment.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Entity\\Comment.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Entity\\Comment.cs",
+              "RelativeToolTip": "BlogApp\\Entity\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:04:51.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewPosts.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\ViewComponents\\NewPosts.cs",
+              "RelativeDocumentMoniker": "BlogApp\\ViewComponents\\NewPosts.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\ViewComponents\\NewPosts.cs",
+              "RelativeToolTip": "BlogApp\\ViewComponents\\NewPosts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:04:19.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "BlogApp\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:03:11.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostCreateViewModel.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Models\\PostCreateViewModel.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Models\\PostCreateViewModel.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Models\\PostCreateViewModel.cs",
+              "RelativeToolTip": "BlogApp\\Models\\PostCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:03:06.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel .cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Models\\LoginViewModel .cs",
+              "RelativeDocumentMoniker": "BlogApp\\Models\\LoginViewModel .cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Models\\LoginViewModel .cs",
+              "RelativeToolTip": "BlogApp\\Models\\LoginViewModel .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:03:02.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Data\\Concrete\\Efcore\\SeedData.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Data\\Concrete\\Efcore\\SeedData.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Data\\Concrete\\Efcore\\SeedData.cs",
+              "RelativeToolTip": "BlogApp\\Data\\Concrete\\Efcore\\SeedData.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDAAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:02:00.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BlogApp\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:09:47.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EfPostRepository.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Data\\Concrete\\Efcore\\EfPostRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Data\\Concrete\\Efcore\\EfPostRepository.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Data\\Concrete\\Efcore\\EfPostRepository.cs",
+              "RelativeToolTip": "BlogApp\\Data\\Concrete\\Efcore\\EfPostRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:56:47.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EfCommentRepository.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Data\\Concrete\\Efcore\\EfCommentRepository.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Data\\Concrete\\Efcore\\EfCommentRepository.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Data\\Concrete\\Efcore\\EfCommentRepository.cs",
+              "RelativeToolTip": "BlogApp\\Data\\Concrete\\Efcore\\EfCommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:56:43.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogContext.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Data\\Concrete\\Efcore\\BlogContext.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Data\\Concrete\\Efcore\\BlogContext.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Data\\Concrete\\Efcore\\BlogContext.cs",
+              "RelativeToolTip": "BlogApp\\Data\\Concrete\\Efcore\\BlogContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwCMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:56:41.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BlogApp\\appsettings.Development.json",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\appsettings.Development.json",
+              "RelativeToolTip": "BlogApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T11:55:48.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogApp\\appsettings.json",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\appsettings.json",
+              "RelativeToolTip": "BlogApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T11:55:45.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostsViewModel.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Models\\PostsViewModel.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Models\\PostsViewModel.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Models\\PostsViewModel.cs",
+              "RelativeToolTip": "BlogApp\\Models\\PostsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:35:24.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogApp\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "BlogApp\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T15:22:34.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Views\\Posts\\Details.cshtml",
+              "RelativeDocumentMoniker": "BlogApp\\Views\\Posts\\Details.cshtml",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Views\\Posts\\Details.cshtml",
+              "RelativeToolTip": "BlogApp\\Views\\Posts\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T15:21:37.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Controllers\\PostsController.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "BlogApp\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:18:04.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlogApp\\Program.cs",
+              "ToolTip": "D:\\aspnet_Dersleri\\6-10 \u00DCnite\\BlogApp\\BlogApp\\Program.cs",
+              "RelativeToolTip": "BlogApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:15:49.596Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1132,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

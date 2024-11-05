@@ -1,0 +1,7 @@
+D:\aspnet_Dersleri\6-10 Ünite\BlogApp\obj\Debug\net7.0\BlogApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnet_Dersleri\6-10 Ünite\BlogApp\obj\Debug\net7.0\BlogApp.AssemblyInfoInputs.cache
+D:\aspnet_Dersleri\6-10 Ünite\BlogApp\obj\Debug\net7.0\BlogApp.AssemblyInfo.cs
+D:\aspnet_Dersleri\6-10 Ünite\BlogApp\obj\Debug\net7.0\BlogApp.csproj.CoreCompileInputs.cache
+D:\aspnet_Dersleri\6-10 Ünite\BlogApp\obj\Debug\net7.0\BlogApp.MvcApplicationPartsAssemblyInfo.cache
+D:\aspnet_Dersleri\6-10 Ünite\BlogApp\obj\Debug\net7.0\BlogApp.RazorAssemblyInfo.cache
+D:\aspnet_Dersleri\6-10 Ünite\BlogApp\obj\Debug\net7.0\BlogApp.RazorAssemblyInfo.cs

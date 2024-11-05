@@ -1,0 +1,23 @@
+Libmanları paketlerini yönetecek olan dnjs yüklüyoruz 
+
+--- libman init -p cdnjs    
+
+libman ile boostrap kurulumu
+
+--- npm i bootstrap@5.3.3 -d wwwroot/lib/bootstrap
+
+--- dotnet tool install microsft.web.librsrymanager.cli -g -v 2.1.175
+
+
+
+
+
+
+/// 
+
+
+Yorum Listelenmesi 
+
+ *  Kullanıcılar ile resimleri ilişkilendirelim 
+ *  Kullanıclar için yroumları ekleme SeedData ipucu:  List
+ *  controller sayfasında bunları diğer veriler ile ilişkinlerimemiz gerekiyor
